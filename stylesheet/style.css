@@ -1,0 +1,36 @@
+.logo{
+    position: absolute;
+    top: 18vw;
+    left: 35vw;
+}
+input{
+    position: absolute;
+    top: 33vw;
+    left: 28vw;
+    width: 50vw;
+    height: 5vw;
+    padding-left: 2vw;
+    border: solid 1px #dfe1e5;
+    border-radius: 25px;
+    outline: none;
+    
+    
+}
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color:rgb(78, 76, 76);
+}
+a{
+    padding: 10px;
+    color:rgb(78, 76, 76);
+    font-size: 13px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ 
